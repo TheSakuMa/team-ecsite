@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+.header {
+	background-color: #fbdade;
+	color: 	#6f4b3e;
+	height: 66px;
+	white-space: nowrap;
+}
+.header-title {
+	display: inline-block;
+	font-size: 32px;
+	color: inherit;
+	padding: 0 5%;
+	line-height: 66px;
+	height: inherit;
+}
+.header-menu {
+	display: inline-block;
+	vertical-align: top;
+	height: 100%;
+	white-space: nowrap;
+}
+.header-menu ul {
+	list-style: none;
+	padding: 0;
+}
+.header-menu form {
+	display: inline-block;
+}
+.header-menu select {
+	height: 33px;
+}
+.header-menu li {
+	display: inline-block;
+}
+.txt-keywords {
+	border-radius: 14px;
+	padding: 4px 5px;
+}

@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+.submit-btn-box {
+	float: none;
+	width: 70%;
+	margin: 1% auto;
+	padding: 0 1%;
+	text-align: right;
+}
+.cart-total-price {
+	width: 70%;
+	margin: 0 auto;
+	text-align: right;
+	margin-top: 1%;
+	padding-right: 5%;
+}
+.empty-cart {
+	margin-left: 33%;
+	margin-right: 5%;
+}
+.empty-cart:disabled {
+	opacity: 0.5;
+	pointer-events: none;
+}
